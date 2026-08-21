@@ -1,0 +1,56 @@
+{
+  "updated": "2026-08-21",
+  "source": "auto",
+  "note": "يُحدَّث تلقائياً أسبوعياً عبر GitHub Action من المدوّنات الرسمية.",
+  "items": [
+    {
+      "tool": "Claude",
+      "date": "2026-08",
+      "title": "عائلة Claude 5 — Opus وSonnet وFable",
+      "summary": "أحدث أجيال Anthropic، بتحسّن ملحوظ في البرمجة والمهام الطويلة متعددة الخطوات.",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "tool": "Claude",
+      "date": "2026-08",
+      "title": "Claude Code على الطرفية وسطح المكتب والويب",
+      "summary": "أداة برمجة بالذكاء الاصطناعي تعمل في الطرفية والمتصفح وإضافات المحرّرات.",
+      "url": "https://claude.com/claude-code"
+    },
+    {
+      "tool": "MiniMax",
+      "date": "2026",
+      "title": "MiniMax للنصوص والصوت والفيديو",
+      "summary": "نماذج متعددة الوسائط بتركيز على توليد الصوت والفيديو ودعم سياق طويل.",
+      "url": "https://www.minimax.io/news"
+    },
+    {
+      "tool": "ChatGPT",
+      "date": "2026-08",
+      "title": "Introducing AI Futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures"
+    },
+    {
+      "tool": "ChatGPT",
+      "date": "2026-08",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "url": "https://openai.com/index/stampli"
+    },
+    {
+      "tool": "Qwen",
+      "date": "2025-09",
+      "title": "Qwen3Guard: Real-time Safety for Your Token Stream",
+      "summary": "Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 fou…",
+      "url": "https://qwenlm.github.io/blog/qwen3guard/"
+    },
+    {
+      "tool": "Qwen",
+      "date": "2025-08",
+      "title": "Qwen-Image-Edit: Image Editing with Higher Quality and Efficiency",
+      "summary": "QWEN CHAT GITHUB HUGGING FACE MODELSCOPE DISCORD We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit su…",
+      "url": "https://qwenlm.github.io/blog/qwen-image-edit/"
+    }
+  ]
+}
