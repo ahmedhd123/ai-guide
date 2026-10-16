@@ -1,9 +1,9 @@
 name: تحديث الأخبار
 
+# الجدولة الأسبوعية تعمل الآن من جهاز أحمد (scripts/update_news.ps1 عبر Task Scheduler)
+# لأن Actions متوقّف على الحساب. يبقى التشغيل اليدوي متاحاً عند عودة Actions.
 on:
-  schedule:
-    - cron: '0 5 * * 1'   # كل اثنين 05:00 UTC
-  workflow_dispatch:       # تشغيل يدوي من تبويب Actions
+  workflow_dispatch:
 
 permissions:
   contents: write
