@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-10-16",
   "source": "auto",
   "note": "يُحدَّث تلقائياً أسبوعياً عبر GitHub Action من المدوّنات الرسمية.",
   "items": [
@@ -26,17 +26,17 @@
     },
     {
       "tool": "ChatGPT",
-      "date": "2026-08",
-      "title": "Introducing AI Futures",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures"
+      "date": "2026-10",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
     },
     {
       "tool": "ChatGPT",
-      "date": "2026-08",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli"
+      "date": "2026-10",
+      "title": "Teaching students to think and learn through questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
     },
     {
       "tool": "Qwen",
