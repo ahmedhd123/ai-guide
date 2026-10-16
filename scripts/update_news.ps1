@@ -6,6 +6,7 @@ $Python = 'C:\Users\ahmed\AppData\Local\Programs\Python\Python311\python.exe'
 $Git    = 'C:\Program Files\Git\cmd\git.exe'
 $Log    = Join-Path $Repo 'scripts\update_news.log'
 $env:PYTHONIOENCODING = 'utf-8'
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8   # حتى تُقرأ مخرجات بايثون العربية صحيحة
 
 function Write-Log($msg) {
     "$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')  $msg" | Out-File -FilePath $Log -Append -Encoding utf8
